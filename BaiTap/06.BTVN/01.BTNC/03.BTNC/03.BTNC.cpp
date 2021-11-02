@@ -1,4 +1,5 @@
-﻿#include<iostream>
+// CHUA HOAN THIEN
+#include<iostream>
 #include<string>
 using namespace std;
 string arr[] = ;
