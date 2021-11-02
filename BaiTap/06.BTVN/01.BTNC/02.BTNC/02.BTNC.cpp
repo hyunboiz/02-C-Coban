@@ -13,6 +13,6 @@ int main()
     cout << "Nhap vao so A va B can tinh?";
     cin >> numberA;
     cin >> numberB;
-    cout << "Ket qua: " << caculator(numberA) + caculator(numberB);
+    cout << "Ket qua: " << caculator(numberA) + caculator(numberB); // tổng 2 giai thừa
     return 0;
 }
