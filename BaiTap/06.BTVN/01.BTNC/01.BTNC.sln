@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03.BTNC", "03.BTNC\03.BTNC.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTVN6a", "BTVN6a\BTVN6a.vcxproj", "{5E0ABA22-BE12-4A96-80CE-30B8F4A142CE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sortbymintomax", "Sortbymintomax\Sortbymintomax.vcxproj", "{36868875-674F-4154-B9F5-22B0110A14EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{5E0ABA22-BE12-4A96-80CE-30B8F4A142CE}.Release|x64.Build.0 = Release|x64
 		{5E0ABA22-BE12-4A96-80CE-30B8F4A142CE}.Release|x86.ActiveCfg = Release|Win32
 		{5E0ABA22-BE12-4A96-80CE-30B8F4A142CE}.Release|x86.Build.0 = Release|Win32
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Debug|x64.ActiveCfg = Debug|x64
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Debug|x64.Build.0 = Debug|x64
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Debug|x86.Build.0 = Debug|Win32
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Release|x64.ActiveCfg = Release|x64
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Release|x64.Build.0 = Release|x64
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Release|x86.ActiveCfg = Release|Win32
+		{36868875-674F-4154-B9F5-22B0110A14EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
