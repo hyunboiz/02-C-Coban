@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01.BTNC"
+    "\\01.BTNC",
+    "\\01.BTNC\\Sortbymintomax"
   ],
-  "SelectedNode": "\\01.BTNC\\01.BTNC",
+  "SelectedNode": "\\01.BTNC\\Sortbymintomax\\Sortbymintomax.cpp",
   "PreviewInSolutionExplorer": false
 }
